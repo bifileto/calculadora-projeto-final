@@ -1,2 +1,4 @@
-# calculadora-projeto-final
-Continuação do projeto de calculadora como projeto final para o curso Eu ProgrAmo do Programaria
+#Projeto pessoal para mentoria no curso Eu ProgrAmo Front-End II da Programaria.
+Projeto de calculadora como projeto pessoal para o curso Eu ProgrAmo do Programaria.
+
+Feito com HTML, CSS e Javascript.
